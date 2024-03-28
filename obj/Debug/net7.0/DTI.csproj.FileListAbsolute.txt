@@ -1,0 +1,15 @@
+C:\Users\Lucas\OneDrive\Documentos\DTI\bin\Debug\net7.0\DTI.exe
+C:\Users\Lucas\OneDrive\Documentos\DTI\bin\Debug\net7.0\DTI.deps.json
+C:\Users\Lucas\OneDrive\Documentos\DTI\bin\Debug\net7.0\DTI.runtimeconfig.json
+C:\Users\Lucas\OneDrive\Documentos\DTI\bin\Debug\net7.0\DTI.dll
+C:\Users\Lucas\OneDrive\Documentos\DTI\bin\Debug\net7.0\DTI.pdb
+C:\Users\Lucas\OneDrive\Documentos\DTI\obj\Debug\net7.0\DTI.csproj.AssemblyReference.cache
+C:\Users\Lucas\OneDrive\Documentos\DTI\obj\Debug\net7.0\DTI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\OneDrive\Documentos\DTI\obj\Debug\net7.0\DTI.AssemblyInfoInputs.cache
+C:\Users\Lucas\OneDrive\Documentos\DTI\obj\Debug\net7.0\DTI.AssemblyInfo.cs
+C:\Users\Lucas\OneDrive\Documentos\DTI\obj\Debug\net7.0\DTI.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\OneDrive\Documentos\DTI\obj\Debug\net7.0\DTI.dll
+C:\Users\Lucas\OneDrive\Documentos\DTI\obj\Debug\net7.0\refint\DTI.dll
+C:\Users\Lucas\OneDrive\Documentos\DTI\obj\Debug\net7.0\DTI.pdb
+C:\Users\Lucas\OneDrive\Documentos\DTI\obj\Debug\net7.0\DTI.genruntimeconfig.cache
+C:\Users\Lucas\OneDrive\Documentos\DTI\obj\Debug\net7.0\ref\DTI.dll
